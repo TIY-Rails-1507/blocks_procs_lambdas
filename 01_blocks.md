@@ -2,7 +2,7 @@
 
 Blocks, procs, and Lambdas, are all different ways of creating closures. A closure is a block of code that has access to variables which were in scope when the block was created.
 
-Blocks are deceptively simple. We start by defining a simple block and then move onto more complex examples.
+Blocks are deceptively simple. We start by defining an innocent block and then move onto more complex examples.
 
 # Blocks
 
@@ -23,7 +23,7 @@ The convention is to use the `{` `}` when the block is only one line. Use the `d
 
 ## Using blocks
 
-A block can be passed to a method. The method can then call the block (before the method has completed): 
+A block can be passed to a method. The method can then call the block, before the method has completed: 
 
 
 ```ruby

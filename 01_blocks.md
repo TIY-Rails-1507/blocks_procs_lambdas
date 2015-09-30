@@ -221,7 +221,7 @@ monday
 ruby
 ```
 
-This is very similar to how the built in `select` methods of `Array` work:
+This is very similar to how the built in `select` method of `Array` work:
 
 ```ruby
 list = %w[ hello mom bob monday tattarrattat ruby detartrated ]  # a shortcut for creating an array of strings

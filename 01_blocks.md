@@ -110,7 +110,7 @@ Output
 40
 80
 ```
-Notice we are already using a block - we pass the block to the `times` method. It calls the block 5 times.
+While we have yet to impliment our specific example, we are already using a block - we pass a the block to the `times` method. In this case, it calls the block 5 times.
 
 We could implement the above example using a method:
 
